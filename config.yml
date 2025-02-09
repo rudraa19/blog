@@ -1,0 +1,69 @@
+baseURL: "https://blog.rudrax.dev/"
+title: BLOG.rudrax.dev
+theme: PaperMod
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  env: production
+  title: "BLOG"
+  description: "personal blog website"
+  keywords: [Blog, Portfolio, PaperMod]
+  author: Rudra
+  images: ["<link or path of image for opengraph, twitter-cards>"]
+  DateFormat: "January 2, 2006"
+  defaultTheme: auto
+  disableThemeToggle: false
+
+  ShowReadingTime: true
+  # ShowShareButtons: true
+  # ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  # ShowWordCount: true
+  ShowRssButtonInSectionTermList: true
+  UseHugoToc: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: false
+  tocopen: false
+
+  assets:
+    favicon: "/images/favicon.ico"
+
+  homeInfoParams:
+    Title: "Hey There!"
+    Content: I'm Rudra and welcome to my blog.
+
+  socialIcons:
+    - name: website
+      url: "https://rudrax.dev"
+    - name: github
+      url: "https://github.com/rudraa19"
+    - name: x
+      url: "https://x.com/rudraa1919"
+
+  # analytics:
+  #   google:
+  #     SiteVerificationTag: "XYZabc"
+
+menu:
+  main:
+    - identifier: tags
+      name: tags
+      url: /tags/
+      weight: 10
+    - identifier: home
+      name: rudrax.dev
+      url: https://rudrax.dev
+      weight: 20
