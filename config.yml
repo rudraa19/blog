@@ -43,7 +43,7 @@ params:
 
   homeInfoParams:
     Title: "Hey There!"
-    Content: I'm Rudra and welcome to my blog.
+    Content: "I'm Rudra, and welcome to my blog. (Disclaimer: I use AI as a writing assistant while creating my posts!)"
 
   socialIcons:
     - name: website

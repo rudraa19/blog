@@ -11,21 +11,21 @@
     </image>
     <generator>Hugo -- 0.143.1</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 08 Feb 2025 23:42:03 +0530</lastBuildDate>
+    <lastBuildDate>Sat, 08 Mar 2025 23:30:26 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Make Your Blog Website Using Hugo</title>
+      <link>http://localhost:1313/posts/create-blog/</link>
+      <pubDate>Sat, 11 Mar 2023 23:30:26 +0530</pubDate>
+      <guid>http://localhost:1313/posts/create-blog/</guid>
+      <description>Create your blog website in simple steps with the help of Hugo.</description>
+    </item>
     <item>
       <title>How to Create a Link Tracker with Node.js</title>
       <link>http://localhost:1313/posts/link-tracker/</link>
-      <pubDate>Sat, 08 Feb 2025 23:30:26 +0530</pubDate>
+      <pubDate>Sat, 08 Mar 2025 23:30:26 +0530</pubDate>
       <guid>http://localhost:1313/posts/link-tracker/</guid>
       <description>Learn how to create a simple Node.js tracker that checks if a link is published or not.</description>
-    </item>
-    <item>
-      <title>Second Post</title>
-      <link>http://localhost:1313/posts/second/</link>
-      <pubDate>Sat, 08 Feb 2025 23:42:03 +0530</pubDate>
-      <guid>http://localhost:1313/posts/second/</guid>
-      <description>&lt;p&gt;hey! This is my second blog&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

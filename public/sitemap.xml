@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/posts/create-blog/</loc>
+    <lastmod>2023-03-11T23:30:26+05:30</lastmod>
+  </url><url>
     <loc>http://localhost:1313/posts/link-tracker/</loc>
-    <lastmod>2025-02-08T23:30:26+05:30</lastmod>
+    <lastmod>2025-03-08T23:30:26+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-02-08T23:42:03+05:30</lastmod>
+    <lastmod>2025-03-08T23:30:26+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-02-08T23:42:03+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/second/</loc>
-    <lastmod>2025-02-08T23:42:03+05:30</lastmod>
+    <lastmod>2025-03-08T23:30:26+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>

@@ -1,7 +1,7 @@
 ---
-date: 2025-02-08T23:30:26+05:30
+date: 2025-03-08T23:30:26+05:30
 title: "How to Create a Link Tracker with Node.js"
-weight: 1
+weight: 2
 summary: "Learn how to create a simple Node.js tracker that checks if a link is published or not."
 ---
 
@@ -151,4 +151,4 @@ In this guide, we:
 
 This method is useful for tracking published links, announcements, or any webpage updates efficiently.
 
-Happy coding! 🚀
+Thank you :)
